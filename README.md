@@ -13,19 +13,15 @@ Two datasets of the laboratory study analyzed is available as a Comma Separated 
 The languages, libraries and other tools used in this project are as below, and with their versions:
 
     Python - version 3.7.8
-    
     Pandas - version 20.1.1
-    
     Matplotlib - version 3.3.0
-    
     Scipy - version 1.5.1
-    
     Jupyter Notebook
 
 ## Actions and Tasks:
-- Data Cleaning and Exploration
-- Data Analysis and Visualization
-- Writing Analysis and Conclusions
+    - Data Cleaning and Exploration
+    - Data Analysis and Visualization
+    - Writing Analysis and Conclusions
     
 ## Analysis & Conclusions:
 Analysis of the data revealed the following:
@@ -41,9 +37,7 @@ Analysis of the data revealed the following:
     - Line plot shows a gradual decrease in tumor volume over time for mouse ID = x401. The trend was similar for majority of the mice.
     - The scatter plot and regression model revealed a high correlation between mice weight and final tumor volume (correlation coefficient = 0.842).
 
-![Tumor volume over time](matplotlib-challenge/Tumor Volume Over Time.png)
-
-In conclusion, Capomulin and Ramicane drug regimens seem to be the most promising, with comparable effectiveness in the treatment of squamous cell carcinoma.
+In conclusion, Capomulin, as well as Ramicane drug regimens seem to be the most promising, with comparable effectiveness in the treatment of squamous cell carcinoma.
       
 ## Contact
 Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me!
