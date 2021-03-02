@@ -1,4 +1,5 @@
 # Matplotlib Challenge: Pymaceuticals
+![laboratory](data/Laboratory.jpg)
 
 An analysis of the performance of Pymaceuticals' anti-cancer drug, Capomulin, as compared to the other treatment regimens. 
 
